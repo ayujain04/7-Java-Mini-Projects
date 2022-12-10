@@ -12,7 +12,7 @@ p0-person - Would search for people near you that were taking the same class as 
 
 p1-nbody - Used physics to calculate the planets orbit around the sun. Then outputted an image of the planets orbitting around the sun in a way that was factually accurate. 
 
-p2-markov - Created a Markov model for generating random text that looks similar to the training text. By generating one radnom word at a time, the model generated and predicted what the next word would be using probability.
+p2-markov - Created a Markov model for generating random text that looks similar to the training text. By generating one random word at a time, the model generated and predicted what the next word would be using probability.
 
 p3-dna - Created a DNA splicer and experimented with the different implementations of a simulated restriction enzym cutting (or cleaving) of a DNA molecule. Purpose was to use a linked list data structure in a real world application. 
 
